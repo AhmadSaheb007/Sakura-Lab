@@ -1,69 +1,114 @@
-import Image from "next/image";
+import Link from "next/link";
+import hiragana from "./data/hiragana.json";
+import katakana from "./data/katakana.json";
+import KanaChart from "./components/kana-chart";
 
 export default function Home() {
   return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert h-5 w-[100px]"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the{" "}
-            <code className="rounded bg-black/[.06] px-1.5 py-0.5 font-mono text-[0.9em] dark:bg-white/[.08]">
-              page.tsx
-            </code>{" "}
-            file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
+    <main>
+      <section className="hero-section">
+        <div className="hero-inner">
+          <div className="hero-copy">
+            <p className="eyebrow">
+              <span className="eyebrow-dot" />
+              YOUR LITTLE CORNER OF JAPAN
+            </p>
+            <h1>
+              Learn Japanese,
+              <span>one petal at a time.</span>
+            </h1>
+            <p className="hero-description">
+              Start with the beautiful basics. Explore the Japanese alphabet
+              and practice the everyday phrases you’ll use from day one.
+            </p>
+            <div className="hero-actions">
+              <a className="button button-primary" href="#kana">
+                Explore the kana <span aria-hidden="true">↓</span>
+              </a>
+              <Link className="button button-secondary" href="/view/jpqna">
+                Practice a conversation <span aria-hidden="true">↗</span>
+              </Link>
+            </div>
+            <div className="hero-note">
+              <span className="hero-note-flower" aria-hidden="true">
+                ✿
+              </span>
+              A gentle first step for Japanese beginners
+            </div>
+          </div>
+          <div className="hero-art" aria-hidden="true">
+            <div className="sun-disc" />
+            <div className="hero-orbit orbit-one" />
+            <div className="hero-orbit orbit-two" />
+            <span className="hero-petal petal-one">✿</span>
+            <span className="hero-petal petal-two">✿</span>
+            <div className="hero-kana-card">
+              <span className="hero-kana-label">YOUR FIRST SOUND</span>
+              <span className="hero-kana">あ</span>
+              <span className="hero-kana-romaji">a · あいうえお</span>
+            </div>
+            <span className="hero-art-caption">はじめまして · nice to meet you</span>
+          </div>
+        </div>
+        <div className="hero-bottom-rule" />
+      </section>
+
+      <section className="kana-section section-shell" id="kana">
+        <div className="section-heading">
+          <div>
+            <p className="eyebrow">
+              <span className="eyebrow-dot" />
+              YOUR FIRST 92 CHARACTERS
+            </p>
+            <h2>Meet the kana</h2>
+          </div>
+          <p className="section-description">
+            Japanese has two beautiful phonetic alphabets. Take your time,
+            listen to each sound, and find your favorite.
           </p>
         </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert h-[14px] w-4"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={14}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
+
+        <div className="kana-charts">
+          <KanaChart
+            title="Hiragana"
+            subtitle="The soft, flowing script"
+            japaneseTitle="ひらがな"
+            entries={hiragana}
+            accent="rose"
+          />
+          <KanaChart
+            title="Katakana"
+            subtitle="For borrowed words & names"
+            japaneseTitle="カタカナ"
+            entries={katakana}
+            accent="sun"
+          />
         </div>
-      </main>
-    </div>
+
+        <p className="chart-footnote">
+          <span aria-hidden="true">✿</span> Tip: switch between English and
+          Bangla pronunciation whenever it feels right.
+        </p>
+      </section>
+
+      <section className="practice-band">
+        <div className="practice-band-inner">
+          <div>
+            <p className="eyebrow">SAY IT LIKE YOU MEAN IT</p>
+            <h2>Ready for your first conversation?</h2>
+            <p>
+              Practice ten useful Japanese phrases, with pronunciations in the
+              language you prefer.
+            </p>
+          </div>
+          <Link className="button button-light" href="/view/jpqna">
+            Try everyday phrases <span aria-hidden="true">↗</span>
+          </Link>
+          <span className="practice-flower" aria-hidden="true">
+            ✿
+          </span>
+        </div>
+      </section>
+    </main>
   );
 }

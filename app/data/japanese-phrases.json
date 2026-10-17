@@ -1,0 +1,202 @@
+[
+  {
+    "messages": [
+      {
+        "speaker": "ahmad",
+        "japanese": "おはようございます。",
+        "romaji": "Ohayou gozaimasu.",
+        "bangla": "ওহায়ো গোজাইমাসু।",
+        "english": "Good morning.",
+        "bengali": "সুপ্রভাত।"
+      },
+      {
+        "speaker": "sobuj",
+        "japanese": "おはようございます！",
+        "romaji": "Ohayou gozaimasu!",
+        "bangla": "ওহায়ো গোজাইমাসু!",
+        "english": "Good morning!",
+        "bengali": "সুপ্রভাত!"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "speaker": "ahmad",
+        "japanese": "お元気ですか？",
+        "romaji": "Ogenki desu ka?",
+        "bangla": "ওগেনকি দেশু কা?",
+        "english": "How are you?",
+        "bengali": "আপনি কেমন আছেন?"
+      },
+      {
+        "speaker": "sobuj",
+        "japanese": "はい、元気です。",
+        "romaji": "Hai, genki desu.",
+        "bangla": "হাই, গেনকি দেশু।",
+        "english": "Yes, I’m well.",
+        "bengali": "হ্যাঁ, আমি ভালো আছি।"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "speaker": "ahmad",
+        "japanese": "お名前は何ですか？",
+        "romaji": "Onamae wa nan desu ka?",
+        "bangla": "ওনামায়ে ওয়া নান দেশু কা?",
+        "english": "What is your name?",
+        "bengali": "আপনার নাম কী?"
+      },
+      {
+        "speaker": "sobuj",
+        "japanese": "私はソブジです。",
+        "romaji": "Watashi wa Sobuji desu.",
+        "bangla": "ওয়াতাশি ওয়া সবুজি দেশু।",
+        "english": "I’m Sobuj.",
+        "bengali": "আমি সবুজ।"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "speaker": "ahmad",
+        "japanese": "どこから来ましたか？",
+        "romaji": "Doko kara kimashita ka?",
+        "bangla": "দোকো কারা কিমাশিতা কা?",
+        "english": "Where are you from?",
+        "bengali": "আপনি কোথা থেকে এসেছেন?"
+      },
+      {
+        "speaker": "sobuj",
+        "japanese": "バングラデシュから来ました。",
+        "romaji": "Banguradeshu kara kimashita.",
+        "bangla": "বাংগুরাদেশু কারা কিমাশিতা।",
+        "english": "I’m from Bangladesh.",
+        "bengali": "আমি বাংলাদেশ থেকে এসেছি।"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "speaker": "ahmad",
+        "japanese": "これは何ですか？",
+        "romaji": "Kore wa nan desu ka?",
+        "bangla": "কোরে ওয়া নান দেশু কা?",
+        "english": "What is this?",
+        "bengali": "এটা কী?"
+      },
+      {
+        "speaker": "sobuj",
+        "japanese": "それは本です。",
+        "romaji": "Sore wa hon desu.",
+        "bangla": "সোরে ওয়া হোন দেশু।",
+        "english": "That is a book.",
+        "bengali": "ওটা একটি বই।"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "speaker": "ahmad",
+        "japanese": "コーヒーを飲みますか？",
+        "romaji": "Koohii o nomimasu ka?",
+        "bangla": "কোহি ও নোমিমাসু কা?",
+        "english": "Do you drink coffee?",
+        "bengali": "আপনি কি কফি পান করেন?"
+      },
+      {
+        "speaker": "sobuj",
+        "japanese": "はい、毎朝飲みます。",
+        "romaji": "Hai, maiasa nomimasu.",
+        "bangla": "হাই, মাইআসা নোমিমাসু।",
+        "english": "Yes, I drink it every morning.",
+        "bengali": "হ্যাঁ, আমি প্রতিদিন সকালে পান করি।"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "speaker": "ahmad",
+        "japanese": "これはいくらですか？",
+        "romaji": "Kore wa ikura desu ka?",
+        "bangla": "কোরে ওয়া ইকুরা দেশু কা?",
+        "english": "How much is this?",
+        "bengali": "এটার দাম কত?"
+      },
+      {
+        "speaker": "sobuj",
+        "japanese": "五百円です。",
+        "romaji": "Gohyaku en desu.",
+        "bangla": "গোহ্যাকু এন দেশু।",
+        "english": "It’s 500 yen.",
+        "bengali": "এটা ৫০০ ইয়েন।"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "speaker": "ahmad",
+        "japanese": "トイレはどこですか？",
+        "romaji": "Toire wa doko desu ka?",
+        "bangla": "তোইরে ওয়া দোকো দেশু কা?",
+        "english": "Where is the restroom?",
+        "bengali": "শৌচাগার কোথায়?"
+      },
+      {
+        "speaker": "sobuj",
+        "japanese": "あそこです。",
+        "romaji": "Asoko desu.",
+        "bangla": "আসোকো দেশু।",
+        "english": "It’s over there.",
+        "bengali": "ওইখানে।"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "speaker": "ahmad",
+        "japanese": "いっしょに行きませんか？",
+        "romaji": "Issho ni ikimasen ka?",
+        "bangla": "ইশ্শো নি ইকিমাসেন কা?",
+        "english": "Would you like to go together?",
+        "bengali": "আপনি কি একসঙ্গে যেতে চান?"
+      },
+      {
+        "speaker": "sobuj",
+        "japanese": "はい、行きましょう！",
+        "romaji": "Hai, ikimashou!",
+        "bangla": "হাই, ইকিমাশোউ!",
+        "english": "Yes, let’s go!",
+        "bengali": "হ্যাঁ, চলুন যাই!"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "speaker": "ahmad",
+        "japanese": "ありがとうございます。",
+        "romaji": "Arigatou gozaimasu.",
+        "bangla": "আরিগাতো গোজাইমাসু।",
+        "english": "Thank you very much.",
+        "bengali": "আপনাকে অনেক ধন্যবাদ।"
+      },
+      {
+        "speaker": "sobuj",
+        "japanese": "どういたしまして。",
+        "romaji": "Dou itashimashite.",
+        "bangla": "দোউ ইতাশিমাশিতে।",
+        "english": "You’re welcome.",
+        "bengali": "আপনাকে স্বাগতম।"
+      }
+    ]
+  }
+]
