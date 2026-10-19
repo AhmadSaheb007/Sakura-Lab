@@ -1,0 +1,90 @@
+{
+  "groups": [
+    {
+      "id": "i-adjectives",
+      "title": "い-Adjectives",
+      "subtitle": "高い · takai · expensive / tall",
+      "rows": [
+        {
+          "id": "i-present",
+          "label": "Present affirmative",
+          "japanese": "高いです。",
+          "romaji": "Takai desu.",
+          "bangla": "তাকাই দেশু।",
+          "meaningEnglish": "It is expensive / tall.",
+          "meaningBangla": "এটি দামি / লম্বা।"
+        },
+        {
+          "id": "i-negative",
+          "label": "Present negative",
+          "japanese": "高くないです。",
+          "romaji": "Takaku nai desu.",
+          "bangla": "তাকাকু নাই দেশু।",
+          "meaningEnglish": "It is not expensive / tall.",
+          "meaningBangla": "এটি দামি / লম্বা নয়।"
+        },
+        {
+          "id": "i-past",
+          "label": "Past affirmative",
+          "japanese": "高かったです。",
+          "romaji": "Takakatta desu.",
+          "bangla": "তাকাকাত্তা দেশু।",
+          "meaningEnglish": "It was expensive / tall.",
+          "meaningBangla": "এটি দামি / লম্বা ছিল।"
+        },
+        {
+          "id": "i-past-negative",
+          "label": "Past negative",
+          "japanese": "高くなかったです。",
+          "romaji": "Takaku nakatta desu.",
+          "bangla": "তাকাকু নাকাত্তা দেশু।",
+          "meaningEnglish": "It was not expensive / tall.",
+          "meaningBangla": "এটি দামি / লম্বা ছিল না।"
+        }
+      ]
+    },
+    {
+      "id": "na-adjectives",
+      "title": "な-Adjectives",
+      "subtitle": "静か · shizuka · quiet",
+      "rows": [
+        {
+          "id": "na-present",
+          "label": "Present affirmative",
+          "japanese": "静かです。",
+          "romaji": "Shizuka desu.",
+          "bangla": "শিজুকা দেশু।",
+          "meaningEnglish": "It is quiet.",
+          "meaningBangla": "এটি শান্ত।"
+        },
+        {
+          "id": "na-negative",
+          "label": "Present negative",
+          "japanese": "静かじゃないです。",
+          "romaji": "Shizuka ja nai desu.",
+          "bangla": "শিজুকা জা নাই দেশু।",
+          "meaningEnglish": "It is not quiet.",
+          "meaningBangla": "এটি শান্ত নয়।"
+        },
+        {
+          "id": "na-past",
+          "label": "Past affirmative",
+          "japanese": "静かでした。",
+          "romaji": "Shizuka deshita.",
+          "bangla": "শিজুকা দেশিতা।",
+          "meaningEnglish": "It was quiet.",
+          "meaningBangla": "এটি শান্ত ছিল।"
+        },
+        {
+          "id": "na-past-negative",
+          "label": "Past negative",
+          "japanese": "静かじゃなかったです。",
+          "romaji": "Shizuka ja nakatta desu.",
+          "bangla": "শিজুকা জা নাকাত্তা দেশু।",
+          "meaningEnglish": "It was not quiet.",
+          "meaningBangla": "এটি শান্ত ছিল না।"
+        }
+      ]
+    }
+  ]
+}

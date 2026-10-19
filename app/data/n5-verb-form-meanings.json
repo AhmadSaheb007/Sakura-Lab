@@ -1,0 +1,98 @@
+[
+  {
+    "id": "nonpast-positive",
+    "label": "Non-past affirmative",
+    "meaningEnglish": "{{present}} / will {{base}}",
+    "meaningBangla": "{{presentBangla}} / {{futureBangla}}"
+  },
+  {
+    "id": "nonpast-negative",
+    "label": "Non-past negative",
+    "meaningEnglish": "do not {{base}} / will not {{base}}",
+    "meaningBangla": "{{negativePresentBangla}} / {{negativeFutureBangla}}"
+  },
+  {
+    "id": "past-positive",
+    "label": "Past affirmative",
+    "meaningEnglish": "{{past}}",
+    "meaningBangla": "{{pastBangla}}"
+  },
+  {
+    "id": "past-negative",
+    "label": "Past negative",
+    "meaningEnglish": "did not {{base}}",
+    "meaningBangla": "{{pastNegativeBangla}}"
+  },
+  {
+    "id": "dictionary",
+    "label": "Dictionary form",
+    "meaningEnglish": "to {{base}}",
+    "meaningBangla": "{{baseBangla}}"
+  },
+  {
+    "id": "te-form",
+    "label": "て-form",
+    "meaningEnglish": "connects actions: {{base}} and …",
+    "meaningBangla": "কাজ যুক্ত করে: {{teBangla}} …"
+  },
+  {
+    "id": "nai-form",
+    "label": "ない-form",
+    "meaningEnglish": "plain negative: do not {{base}}",
+    "meaningBangla": "সাধারণ নেতিবাচক: {{negativePresentBangla}}"
+  },
+  {
+    "id": "tai-form",
+    "label": "たい-form",
+    "meaningEnglish": "want to {{base}}",
+    "meaningBangla": "{{wantBangla}}"
+  },
+  {
+    "id": "polite-positive",
+    "label": "Polite affirmative",
+    "meaningEnglish": "{{present}} / will {{base}} (polite)",
+    "meaningBangla": "{{presentBangla}} / {{futureBangla}} (ভদ্রভাবে)"
+  },
+  {
+    "id": "polite-negative",
+    "label": "Polite negative",
+    "meaningEnglish": "do not {{base}} / will not {{base}} (polite)",
+    "meaningBangla": "{{negativePresentBangla}} / {{negativeFutureBangla}} (ভদ্রভাবে)"
+  },
+  {
+    "id": "polite-past-positive",
+    "label": "Polite past affirmative",
+    "meaningEnglish": "{{past}} (polite)",
+    "meaningBangla": "{{pastBangla}} (ভদ্রভাবে)"
+  },
+  {
+    "id": "polite-past-negative",
+    "label": "Polite past negative",
+    "meaningEnglish": "did not {{base}} (polite)",
+    "meaningBangla": "{{pastNegativeBangla}} (ভদ্রভাবে)"
+  },
+  {
+    "id": "request",
+    "label": "Request · てください",
+    "meaningEnglish": "please {{base}}",
+    "meaningBangla": "{{requestBangla}}"
+  },
+  {
+    "id": "invitation",
+    "label": "Invitation · ましょう",
+    "meaningEnglish": "let’s {{base}}",
+    "meaningBangla": "{{invitationBangla}}"
+  },
+  {
+    "id": "permission",
+    "label": "Permission · てもいいです",
+    "meaningEnglish": "may {{base}}",
+    "meaningBangla": "{{permissionBangla}}"
+  },
+  {
+    "id": "prohibition",
+    "label": "Prohibition · てはいけません",
+    "meaningEnglish": "must not {{base}}",
+    "meaningBangla": "{{prohibitionBangla}}"
+  }
+]

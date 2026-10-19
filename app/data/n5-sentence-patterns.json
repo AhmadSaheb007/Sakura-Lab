@@ -1,0 +1,56 @@
+[
+  {
+    "id": "affirmative",
+    "label": "Affirmative · A は B です",
+    "japanese": "田中さんは学生です。",
+    "romaji": "Tanaka-san wa gakusei desu.",
+    "bangla": "তানাকা-সান ওয়া গাকুসেই দেশু।",
+    "meaningEnglish": "Mr. / Ms. Tanaka is a student.",
+    "meaningBangla": "তানাকা একজন শিক্ষার্থী।"
+  },
+  {
+    "id": "question",
+    "label": "Question · add か",
+    "japanese": "田中さんは学生ですか？",
+    "romaji": "Tanaka-san wa gakusei desu ka?",
+    "bangla": "তানাকা-সান ওয়া গাকুসেই দেশু কা?",
+    "meaningEnglish": "Is Tanaka a student?",
+    "meaningBangla": "তানাকা কি একজন শিক্ষার্থী?"
+  },
+  {
+    "id": "negative",
+    "label": "Negative · じゃありません",
+    "japanese": "田中さんは学生じゃありません。",
+    "romaji": "Tanaka-san wa gakusei ja arimasen.",
+    "bangla": "তানাকা-সান ওয়া গাকুসেই জা আরিমাসেন।",
+    "meaningEnglish": "Tanaka is not a student.",
+    "meaningBangla": "তানাকা শিক্ষার্থী নন।"
+  },
+  {
+    "id": "demonstrative",
+    "label": "Question · これは何ですか",
+    "japanese": "これは何ですか？",
+    "romaji": "Kore wa nan desu ka?",
+    "bangla": "কোরে ওয়া নান দেশু কা?",
+    "meaningEnglish": "What is this?",
+    "meaningBangla": "এটি কী?"
+  },
+  {
+    "id": "existence",
+    "label": "Existence · あります / います",
+    "japanese": "机の上に本があります。",
+    "romaji": "Tsukue no ue ni hon ga arimasu.",
+    "bangla": "ৎসুকুয়ে নো উএ নি হোন গা আরিমাসু।",
+    "meaningEnglish": "There is a book on the desk.",
+    "meaningBangla": "টেবিলের ওপর একটি বই আছে।"
+  },
+  {
+    "id": "movement",
+    "label": "Destination · に行きます",
+    "japanese": "明日、学校に行きます。",
+    "romaji": "Ashita, gakkou ni ikimasu.",
+    "bangla": "আশিতা, গাক্কোও নি ইকিমাসু।",
+    "meaningEnglish": "I will go to school tomorrow.",
+    "meaningBangla": "আমি আগামীকাল স্কুলে যাব।"
+  }
+]

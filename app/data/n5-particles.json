@@ -1,0 +1,83 @@
+[
+  {
+    "id": "wa",
+    "label": "は · Topic",
+    "japanese": "私は学生です。",
+    "romaji": "Watashi wa gakusei desu.",
+    "bangla": "ওয়াতাশি ওয়া গাকুসেই দেশু।",
+    "meaningEnglish": "As for me, I am a student.",
+    "meaningBangla": "আমি একজন শিক্ষার্থী।"
+  },
+  {
+    "id": "ga",
+    "label": "が · Subject",
+    "japanese": "猫がいます。",
+    "romaji": "Neko ga imasu.",
+    "bangla": "নেকো গা ইমাসু।",
+    "meaningEnglish": "There is a cat.",
+    "meaningBangla": "একটি বিড়াল আছে।"
+  },
+  {
+    "id": "o",
+    "label": "を · Direct object",
+    "japanese": "水を飲みます。",
+    "romaji": "Mizu o nomimasu.",
+    "bangla": "মিজু ও নোমিমাসু।",
+    "meaningEnglish": "I drink water.",
+    "meaningBangla": "আমি পানি পান করি।"
+  },
+  {
+    "id": "ni",
+    "label": "に · Time / destination",
+    "japanese": "七時に起きます。",
+    "romaji": "Shichi-ji ni okimasu.",
+    "bangla": "শিচি-জি নি ওকিমাসু।",
+    "meaningEnglish": "I get up at seven.",
+    "meaningBangla": "আমি সাতটায় উঠি।"
+  },
+  {
+    "id": "de",
+    "label": "で · Place of action",
+    "japanese": "図書館で勉強します。",
+    "romaji": "Toshokan de benkyou shimasu.",
+    "bangla": "তোশোকান দে বেঙ্কিয়োও শিমাসু।",
+    "meaningEnglish": "I study at the library.",
+    "meaningBangla": "আমি গ্রন্থাগারে পড়াশোনা করি।"
+  },
+  {
+    "id": "e",
+    "label": "へ · Direction",
+    "japanese": "学校へ行きます。",
+    "romaji": "Gakkou e ikimasu.",
+    "bangla": "গাক্কোও এ ইকিমাসু।",
+    "meaningEnglish": "I am going to school.",
+    "meaningBangla": "আমি স্কুলে যাচ্ছি।"
+  },
+  {
+    "id": "to",
+    "label": "と · With / and",
+    "japanese": "友達と話します。",
+    "romaji": "Tomodachi to hanashimasu.",
+    "bangla": "তোমোদাচি তো হানাশিমাসু।",
+    "meaningEnglish": "I talk with a friend.",
+    "meaningBangla": "আমি একজন বন্ধুর সঙ্গে কথা বলি।"
+  },
+  {
+    "id": "no",
+    "label": "の · Possession",
+    "japanese": "これは私の本です。",
+    "romaji": "Kore wa watashi no hon desu.",
+    "bangla": "কোরে ওয়া ওয়াতাশি নো হোন দেশু।",
+    "meaningEnglish": "This is my book.",
+    "meaningBangla": "এটি আমার বই।"
+  },
+  {
+    "id": "mo",
+    "label": "も · Also / too",
+    "japanese": "私も学生です。",
+    "romaji": "Watashi mo gakusei desu.",
+    "bangla": "ওয়াতাশি মো গাকুসেই দেশু।",
+    "meaningEnglish": "I am also a student.",
+    "meaningBangla": "আমিও একজন শিক্ষার্থী।"
+  }
+]

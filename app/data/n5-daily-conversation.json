@@ -1,0 +1,56 @@
+[
+  {
+    "id": "request",
+    "label": "Polite request · てください",
+    "japanese": "ここに名前を書いてください。",
+    "romaji": "Koko ni namae o kaite kudasai.",
+    "bangla": "কোকো নি নামায়ে ও কাইতে কুদাসাই।",
+    "meaningEnglish": "Please write your name here.",
+    "meaningBangla": "দয়া করে এখানে আপনার নাম লিখুন।"
+  },
+  {
+    "id": "invitation",
+    "label": "Invitation · ましょう",
+    "japanese": "一緒に昼ご飯を食べましょう。",
+    "romaji": "Issho ni hirugohan o tabemashou.",
+    "bangla": "ইশ্শো নি হিরুগোহান ও তাবেমাশোও।",
+    "meaningEnglish": "Let’s have lunch together.",
+    "meaningBangla": "চলুন একসঙ্গে দুপুরের খাবার খাই।"
+  },
+  {
+    "id": "suggestion",
+    "label": "Suggestion · ませんか",
+    "japanese": "一緒に映画を見ませんか？",
+    "romaji": "Issho ni eiga o mimasen ka?",
+    "bangla": "ইশ্শো নি এইগা ও মিমাসেন কা?",
+    "meaningEnglish": "Would you like to watch a movie together?",
+    "meaningBangla": "আপনি কি একসঙ্গে সিনেমা দেখতে চান?"
+  },
+  {
+    "id": "permission",
+    "label": "Permission · てもいいですか",
+    "japanese": "ここで写真を撮ってもいいですか？",
+    "romaji": "Koko de shashin o totte mo ii desu ka?",
+    "bangla": "কোকো দে শাশিন ও তোত্তে মো ইই দেশু কা?",
+    "meaningEnglish": "May I take a photo here?",
+    "meaningBangla": "আমি কি এখানে ছবি তুলতে পারি?"
+  },
+  {
+    "id": "prohibition",
+    "label": "Prohibition · てはいけません",
+    "japanese": "ここでタバコを吸ってはいけません。",
+    "romaji": "Koko de tabako o sutte wa ikemasen.",
+    "bangla": "কোকো দে তাবাকো ও সুত্তে ওয়া ইকেমাসেন।",
+    "meaningEnglish": "You must not smoke here.",
+    "meaningBangla": "এখানে ধূমপান করা নিষেধ।"
+  },
+  {
+    "id": "thanks",
+    "label": "Polite expression",
+    "japanese": "手伝ってくれてありがとうございます。",
+    "romaji": "Tetsudatte kurete arigatou gozaimasu.",
+    "bangla": "তেত্সুদাত্তে কুরেতে আরিগাতোও গোজাইমাসু।",
+    "meaningEnglish": "Thank you for helping me.",
+    "meaningBangla": "আমাকে সাহায্য করার জন্য ধন্যবাদ।"
+  }
+]

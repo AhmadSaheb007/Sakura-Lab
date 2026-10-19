@@ -1,0 +1,290 @@
+[
+  {
+    "id": "request-items",
+    "order": 5,
+    "priority": "Very useful",
+    "title": "Ask for something politely",
+    "pattern": "N をください",
+    "explanationEnglish": "Put を after the thing you need, then ください (please give me).",
+    "explanationBangla": "যে জিনিসটি চাই তার পরে を বসিয়ে ください বলুন (দয়া করে আমাকে দিন)।",
+    "examples": [
+      {
+        "japanese": "水をください。",
+        "romaji": "Mizu o kudasai.",
+        "bangla": "মিজু ও কুদাসাই।",
+        "meaningEnglish": "Water, please.",
+        "meaningBangla": "দয়া করে পানি দিন।"
+      },
+      {
+        "japanese": "メニューをください。",
+        "romaji": "Menyuu o kudasai.",
+        "bangla": "মেন্যু ও কুদাসাই।",
+        "meaningEnglish": "The menu, please.",
+        "meaningBangla": "দয়া করে মেন্যু দিন।"
+      },
+      {
+        "japanese": "切符をください。",
+        "romaji": "Kippu o kudasai.",
+        "bangla": "কিপ্পু ও কুদাসাই।",
+        "meaningEnglish": "A ticket, please.",
+        "meaningBangla": "দয়া করে একটি টিকিট দিন।"
+      }
+    ]
+  },
+  {
+    "id": "polite-action-request",
+    "order": 6,
+    "priority": "Useful",
+    "title": "Ask someone to do something",
+    "pattern": "V-てください",
+    "explanationEnglish": "Use the て-form plus ください to make a polite, useful request.",
+    "explanationBangla": "ভদ্রভাবে অনুরোধ করতে ক্রিয়ার て-form-এর সঙ্গে ください যোগ করুন।",
+    "examples": [
+      {
+        "japanese": "ゆっくり話してください。",
+        "romaji": "Yukkuri hanashite kudasai.",
+        "bangla": "ইয়ুক্কুরি হানাশিতে কুদাসাই।",
+        "meaningEnglish": "Please speak slowly.",
+        "meaningBangla": "দয়া করে ধীরে কথা বলুন।"
+      },
+      {
+        "japanese": "もう一度言ってください。",
+        "romaji": "Mou ichido itte kudasai.",
+        "bangla": "মোও ইচিদো ইত্তে কুদাসাই।",
+        "meaningEnglish": "Please say that one more time.",
+        "meaningBangla": "দয়া করে আরেকবার বলুন।"
+      },
+      {
+        "japanese": "ここに書いてください。",
+        "romaji": "Koko ni kaite kudasai.",
+        "bangla": "কোকো নি কাইতে কুদাসাই।",
+        "meaningEnglish": "Please write it here.",
+        "meaningBangla": "দয়া করে এখানে লিখুন।"
+      }
+    ]
+  },
+  {
+    "id": "ask-location",
+    "order": 3,
+    "priority": "Essential",
+    "title": "Ask where something is",
+    "pattern": "N はどこですか",
+    "explanationEnglish": "Use はどこですか (where is …?) to find places and facilities.",
+    "explanationBangla": "কোনো জায়গা বা সুবিধা কোথায় জানতে はどこですか (… কোথায়?) ব্যবহার করুন।",
+    "examples": [
+      {
+        "japanese": "駅はどこですか。",
+        "romaji": "Eki wa doko desu ka?",
+        "bangla": "একি ওয়া দোকো দেশু কা?",
+        "meaningEnglish": "Where is the station?",
+        "meaningBangla": "স্টেশন কোথায়?"
+      },
+      {
+        "japanese": "トイレはどこですか。",
+        "romaji": "Toire wa doko desu ka?",
+        "bangla": "তোইরে ওয়া দোকো দেশু কা?",
+        "meaningEnglish": "Where is the restroom?",
+        "meaningBangla": "শৌচাগার কোথায়?"
+      },
+      {
+        "japanese": "出口はどこですか。",
+        "romaji": "Deguchi wa doko desu ka?",
+        "bangla": "দেগুচি ওয়া দোকো দেশু কা?",
+        "meaningEnglish": "Where is the exit?",
+        "meaningBangla": "বের হওয়ার পথ কোথায়?"
+      }
+    ]
+  },
+  {
+    "id": "ask-directions",
+    "order": 4,
+    "priority": "Very useful",
+    "title": "Ask how to get somewhere",
+    "pattern": "N へはどうやって行きますか",
+    "explanationEnglish": "Ask どうやって行きますか (how do I get to …?) when you need directions.",
+    "explanationBangla": "কোনো জায়গায় কীভাবে যাবেন জানতে どうやって行きますか (কীভাবে যাব?) জিজ্ঞাসা করুন।",
+    "examples": [
+      {
+        "japanese": "駅へはどうやって行きますか。",
+        "romaji": "Eki e wa dou yatte ikimasu ka?",
+        "bangla": "একি এ ওয়া দোও ইয়াত্তে ইকিমাসু কা?",
+        "meaningEnglish": "How do I get to the station?",
+        "meaningBangla": "স্টেশনে কীভাবে যাব?"
+      },
+      {
+        "japanese": "ホテルへはどうやって行きますか。",
+        "romaji": "Hoteru e wa dou yatte ikimasu ka?",
+        "bangla": "হোতেরু এ ওয়া দোও ইয়াত্তে ইকিমাসু কা?",
+        "meaningEnglish": "How do I get to the hotel?",
+        "meaningBangla": "হোটেলে কীভাবে যাব?"
+      },
+      {
+        "japanese": "空港へはどうやって行きますか。",
+        "romaji": "Kuukou e wa dou yatte ikimasu ka?",
+        "bangla": "কূকোও এ ওয়া দোও ইয়াত্তে ইকিমাসু কা?",
+        "meaningEnglish": "How do I get to the airport?",
+        "meaningBangla": "বিমানবন্দরে কীভাবে যাব?"
+      }
+    ]
+  },
+  {
+    "id": "ask-permission",
+    "order": 8,
+    "priority": "Useful",
+    "title": "Ask permission",
+    "pattern": "V-てもいいですか",
+    "explanationEnglish": "Use the て-form plus もいいですか to ask if something is allowed.",
+    "explanationBangla": "কোনো কাজ করা যাবে কি না জানতে ক্রিয়ার て-form-এর সঙ্গে もいいですか যোগ করুন।",
+    "examples": [
+      {
+        "japanese": "ここに座ってもいいですか。",
+        "romaji": "Koko ni suwatte mo ii desu ka?",
+        "bangla": "কোকো নি সুওয়াত্তে মো ইই দেশু কা?",
+        "meaningEnglish": "May I sit here?",
+        "meaningBangla": "আমি কি এখানে বসতে পারি?"
+      },
+      {
+        "japanese": "写真を撮ってもいいですか。",
+        "romaji": "Shashin o totte mo ii desu ka?",
+        "bangla": "শাশিন ও তোত্তে মো ইই দেশু কা?",
+        "meaningEnglish": "May I take a photo?",
+        "meaningBangla": "আমি কি ছবি তুলতে পারি?"
+      },
+      {
+        "japanese": "カードで払ってもいいですか。",
+        "romaji": "Kaado de haratte mo ii desu ka?",
+        "bangla": "কার্ডো দে হারাত্তে মো ইই দেশু কা?",
+        "meaningEnglish": "May I pay by card?",
+        "meaningBangla": "আমি কি কার্ডে টাকা দিতে পারি?"
+      }
+    ]
+  },
+  {
+    "id": "ask-price",
+    "order": 7,
+    "priority": "Useful",
+    "title": "Ask the price",
+    "pattern": "N はいくらですか",
+    "explanationEnglish": "Ask いくらですか (how much is it?) before buying something.",
+    "explanationBangla": "কিছু কেনার আগে দাম জানতে いくらですか (দাম কত?) জিজ্ঞাসা করুন।",
+    "examples": [
+      {
+        "japanese": "これはいくらですか。",
+        "romaji": "Kore wa ikura desu ka?",
+        "bangla": "কোরে ওয়া ইকুরা দেশু কা?",
+        "meaningEnglish": "How much is this?",
+        "meaningBangla": "এটার দাম কত?"
+      },
+      {
+        "japanese": "この切符はいくらですか。",
+        "romaji": "Kono kippu wa ikura desu ka?",
+        "bangla": "কোনো কিপ্পু ওয়া ইকুরা দেশু কা?",
+        "meaningEnglish": "How much is this ticket?",
+        "meaningBangla": "এই টিকিটের দাম কত?"
+      },
+      {
+        "japanese": "水はいくらですか。",
+        "romaji": "Mizu wa ikura desu ka?",
+        "bangla": "মিজু ওয়া ইকুরা দেশু কা?",
+        "meaningEnglish": "How much is the water?",
+        "meaningBangla": "পানির দাম কত?"
+      }
+    ]
+  },
+  {
+    "id": "communication-help",
+    "order": 2,
+    "priority": "Essential",
+    "title": "Say you do not understand",
+    "pattern": "日本語がわかりません · もう一度お願いします",
+    "explanationEnglish": "These phrases help when you do not understand or need someone to repeat something.",
+    "explanationBangla": "কিছু বুঝতে না পারলে বা আবার শুনতে চাইলে এই বাক্যগুলো ব্যবহার করুন।",
+    "examples": [
+      {
+        "japanese": "日本語がわかりません。",
+        "romaji": "Nihongo ga wakarimasen.",
+        "bangla": "নিহোঙ্গো গা ওয়াকারিমাসেন।",
+        "meaningEnglish": "I do not understand Japanese.",
+        "meaningBangla": "আমি জাপানি বুঝি না।"
+      },
+      {
+        "japanese": "もう一度お願いします。",
+        "romaji": "Mou ichido onegaishimasu.",
+        "bangla": "মোও ইচিদো ওনেগাইশিমাসু।",
+        "meaningEnglish": "One more time, please.",
+        "meaningBangla": "দয়া করে আরেকবার বলুন।"
+      },
+      {
+        "japanese": "英語を話せますか。",
+        "romaji": "Eigo o hanasemasu ka?",
+        "bangla": "এইগো ও হানাসেমাসু কা?",
+        "meaningEnglish": "Can you speak English?",
+        "meaningBangla": "আপনি কি ইংরেজি বলতে পারেন?"
+      }
+    ]
+  },
+  {
+    "id": "polite-prohibition",
+    "order": 9,
+    "priority": "Useful to know",
+    "title": "Understand or give a polite prohibition",
+    "pattern": "V-ないでください",
+    "explanationEnglish": "Use the ない-form plus でください to politely ask someone not to do something.",
+    "explanationBangla": "কাউকে ভদ্রভাবে কোনো কাজ না করতে বলতে ক্রিয়ার ない-form-এর সঙ্গে でください যোগ করুন।",
+    "examples": [
+      {
+        "japanese": "ここで写真を撮らないでください。",
+        "romaji": "Koko de shashin o toranaide kudasai.",
+        "bangla": "কোকো দে শাশিন ও তোরানাইদে কুদাসাই।",
+        "meaningEnglish": "Please do not take photos here.",
+        "meaningBangla": "দয়া করে এখানে ছবি তুলবেন না।"
+      },
+      {
+        "japanese": "ここでタバコを吸わないでください。",
+        "romaji": "Koko de tabako o suwanaide kudasai.",
+        "bangla": "কোকো দে তাবাকো ও সুওয়ানাইদে কুদাসাই।",
+        "meaningEnglish": "Please do not smoke here.",
+        "meaningBangla": "দয়া করে এখানে ধূমপান করবেন না।"
+      },
+      {
+        "japanese": "ここに入らないでください。",
+        "romaji": "Koko ni hairanaide kudasai.",
+        "bangla": "কোকো নি হাইরানাইদে কুদাসাই।",
+        "meaningEnglish": "Please do not enter here.",
+        "meaningBangla": "দয়া করে এখানে প্রবেশ করবেন না।"
+      }
+    ]
+  },
+  {
+    "id": "emergency",
+    "order": 1,
+    "priority": "Emergency",
+    "title": "Ask for urgent help",
+    "pattern": "助けてください · N を呼んでください",
+    "explanationEnglish": "Use these direct phrases if you need immediate help, the police, or a hospital.",
+    "explanationBangla": "জরুরি সাহায্য, পুলিশ বা হাসপাতাল দরকার হলে এই সরাসরি বাক্যগুলো বলুন।",
+    "examples": [
+      {
+        "japanese": "助けてください。",
+        "romaji": "Tasukete kudasai.",
+        "bangla": "তাসুকেতে কুদাসাই।",
+        "meaningEnglish": "Please help me!",
+        "meaningBangla": "দয়া করে আমাকে সাহায্য করুন!"
+      },
+      {
+        "japanese": "警察を呼んでください。",
+        "romaji": "Keisatsu o yonde kudasai.",
+        "bangla": "কেইসাত্সু ও ইয়োন্দে কুদাসাই।",
+        "meaningEnglish": "Please call the police.",
+        "meaningBangla": "দয়া করে পুলিশ ডাকুন।"
+      },
+      {
+        "japanese": "病院に連れて行ってください。",
+        "romaji": "Byouin ni tsurete itte kudasai.",
+        "bangla": "বিয়োইন নি ত্সুরেতে ইত্তে কুদাসাই।",
+        "meaningEnglish": "Please take me to a hospital.",
+        "meaningBangla": "দয়া করে আমাকে হাসপাতালে নিয়ে যান।"
+      }
+    ]
+  }
+]

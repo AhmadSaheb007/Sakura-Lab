@@ -1,0 +1,98 @@
+[
+  {
+    "id": "taberu",
+    "label": "食べる (Taberu)",
+    "englishVerb": "eat",
+    "dictionary": "食べる",
+    "romaji": "taberu",
+    "bangla": "তাবেরু",
+    "class": "ichidan",
+    "stem": "食べ",
+    "romajiStem": "tabe",
+    "banglaStem": "তাবে",
+    "ending": "る",
+    "exception": null,
+    "meaning": {
+      "english": { "base": "eat", "present": "eat", "past": "ate" },
+      "bangla": {
+        "base": "খাওয়া",
+        "present": "খাই",
+        "future": "খাব",
+        "past": "খেয়েছি",
+        "negativePresent": "খাই না",
+        "negativeFuture": "খাব না",
+        "pastNegative": "খাইনি",
+        "want": "খেতে চাই",
+        "te": "খেয়ে",
+        "request": "দয়া করে খান",
+        "invitation": "চলুন খাই",
+        "permission": "খেতে পারেন",
+        "prohibition": "খাওয়া যাবে না"
+      }
+    }
+  },
+  {
+    "id": "nomu",
+    "label": "飲む (Nomu)",
+    "englishVerb": "drink",
+    "dictionary": "飲む",
+    "romaji": "nomu",
+    "bangla": "নোমু",
+    "class": "godan",
+    "stem": "飲",
+    "romajiStem": "no",
+    "banglaStem": "নো",
+    "ending": "む",
+    "exception": null,
+    "meaning": {
+      "english": { "base": "drink", "present": "drink", "past": "drank" },
+      "bangla": {
+        "base": "পান করা",
+        "present": "পান করি",
+        "future": "পান করব",
+        "past": "পান করেছি",
+        "negativePresent": "পান করি না",
+        "negativeFuture": "পান করব না",
+        "pastNegative": "পান করিনি",
+        "want": "পান করতে চাই",
+        "te": "পান করে",
+        "request": "দয়া করে পান করুন",
+        "invitation": "চলুন পান করি",
+        "permission": "পান করতে পারেন",
+        "prohibition": "পান করা যাবে না"
+      }
+    }
+  },
+  {
+    "id": "iku",
+    "label": "行く (Iku)",
+    "englishVerb": "go",
+    "dictionary": "行く",
+    "romaji": "iku",
+    "bangla": "ইকু",
+    "class": "godan",
+    "stem": "行",
+    "romajiStem": "i",
+    "banglaStem": "ই",
+    "ending": "く",
+    "exception": "iku",
+    "meaning": {
+      "english": { "base": "go", "present": "go", "past": "went" },
+      "bangla": {
+        "base": "যাওয়া",
+        "present": "যাই",
+        "future": "যাব",
+        "past": "গিয়েছি",
+        "negativePresent": "যাই না",
+        "negativeFuture": "যাব না",
+        "pastNegative": "যাইনি",
+        "want": "যেতে চাই",
+        "te": "গিয়ে",
+        "request": "দয়া করে যান",
+        "invitation": "চলুন যাই",
+        "permission": "যেতে পারেন",
+        "prohibition": "যাওয়া যাবে না"
+      }
+    }
+  }
+]

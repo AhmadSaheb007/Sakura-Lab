@@ -1,0 +1,514 @@
+[
+  {
+    "priority": "Most essential",
+    "description": "Words and phrases to ask for help and handle the basics",
+    "entries": [
+      {
+        "word": "すみません",
+        "romaji": "Sumimasen",
+        "bangla": "সুমিমাসেন",
+        "meaningEnglish": "Excuse me; I’m sorry",
+        "meaningBangla": "মাফ করবেন; দুঃখিত"
+      },
+      {
+        "word": "お願いします",
+        "romaji": "Onegaishimasu",
+        "bangla": "ওনেগাইশিমাসু",
+        "meaningEnglish": "Please",
+        "meaningBangla": "দয়া করে"
+      },
+      {
+        "word": "ありがとう",
+        "romaji": "Arigatou",
+        "bangla": "আরিগাতোও",
+        "meaningEnglish": "Thank you",
+        "meaningBangla": "ধন্যবাদ"
+      },
+      {
+        "word": "はい",
+        "romaji": "Hai",
+        "bangla": "হাই",
+        "meaningEnglish": "Yes",
+        "meaningBangla": "হ্যাঁ"
+      },
+      {
+        "word": "いいえ",
+        "romaji": "Iie",
+        "bangla": "ইইএ",
+        "meaningEnglish": "No",
+        "meaningBangla": "না"
+      },
+      {
+        "word": "わかりません",
+        "romaji": "Wakarimasen",
+        "bangla": "ওয়াকারিমাসেন",
+        "meaningEnglish": "I don’t understand",
+        "meaningBangla": "আমি বুঝতে পারছি না"
+      },
+      {
+        "word": "助けてください",
+        "romaji": "Tasukete kudasai",
+        "bangla": "তাসুকেতে কুদাসাই",
+        "meaningEnglish": "Please help me",
+        "meaningBangla": "দয়া করে আমাকে সাহায্য করুন"
+      },
+      {
+        "word": "大丈夫です",
+        "romaji": "Daijoubu desu",
+        "bangla": "দাইজোওবু দেশু",
+        "meaningEnglish": "I’m okay; it’s okay",
+        "meaningBangla": "আমি ঠিক আছি; ঠিক আছে"
+      },
+      {
+        "word": "日本語",
+        "romaji": "Nihongo",
+        "bangla": "নিহোঙ্গো",
+        "meaningEnglish": "Japanese language",
+        "meaningBangla": "জাপানি ভাষা"
+      },
+      {
+        "word": "英語",
+        "romaji": "Eigo",
+        "bangla": "এইগো",
+        "meaningEnglish": "English language",
+        "meaningBangla": "ইংরেজি ভাষা"
+      }
+    ]
+  },
+  {
+    "priority": "Very necessary",
+    "description": "Getting around stations, streets, and important places",
+    "entries": [
+      {
+        "word": "駅",
+        "romaji": "Eki",
+        "bangla": "একি",
+        "meaningEnglish": "Train station",
+        "meaningBangla": "রেলস্টেশন"
+      },
+      {
+        "word": "電車",
+        "romaji": "Densha",
+        "bangla": "দেনশা",
+        "meaningEnglish": "Train",
+        "meaningBangla": "ট্রেন"
+      },
+      {
+        "word": "地下鉄",
+        "romaji": "Chikatetsu",
+        "bangla": "চিকাতেত্সু",
+        "meaningEnglish": "Subway",
+        "meaningBangla": "পাতালরেল"
+      },
+      {
+        "word": "バス",
+        "romaji": "Basu",
+        "bangla": "বাসু",
+        "meaningEnglish": "Bus",
+        "meaningBangla": "বাস"
+      },
+      {
+        "word": "タクシー",
+        "romaji": "Takushii",
+        "bangla": "তাকুশী",
+        "meaningEnglish": "Taxi",
+        "meaningBangla": "ট্যাক্সি"
+      },
+      {
+        "word": "切符",
+        "romaji": "Kippu",
+        "bangla": "কিপ্পু",
+        "meaningEnglish": "Ticket",
+        "meaningBangla": "টিকিট"
+      },
+      {
+        "word": "入口",
+        "romaji": "Iriguchi",
+        "bangla": "ইরিগুচি",
+        "meaningEnglish": "Entrance",
+        "meaningBangla": "প্রবেশপথ"
+      },
+      {
+        "word": "出口",
+        "romaji": "Deguchi",
+        "bangla": "দেগুচি",
+        "meaningEnglish": "Exit",
+        "meaningBangla": "বাহির হওয়ার পথ"
+      },
+      {
+        "word": "トイレ",
+        "romaji": "Toire",
+        "bangla": "তোইরে",
+        "meaningEnglish": "Restroom",
+        "meaningBangla": "শৌচাগার"
+      },
+      {
+        "word": "ホテル",
+        "romaji": "Hoteru",
+        "bangla": "হোতেরু",
+        "meaningEnglish": "Hotel",
+        "meaningBangla": "হোটেল"
+      },
+      {
+        "word": "ここ",
+        "romaji": "Koko",
+        "bangla": "কোকো",
+        "meaningEnglish": "Here",
+        "meaningBangla": "এখানে"
+      },
+      {
+        "word": "どこ",
+        "romaji": "Doko",
+        "bangla": "দোকো",
+        "meaningEnglish": "Where",
+        "meaningBangla": "কোথায়"
+      }
+    ]
+  },
+  {
+    "priority": "Very necessary",
+    "description": "Ordering food and paying for everyday items",
+    "entries": [
+      {
+        "word": "水",
+        "romaji": "Mizu",
+        "bangla": "মিজু",
+        "meaningEnglish": "Water",
+        "meaningBangla": "পানি"
+      },
+      {
+        "word": "食べ物",
+        "romaji": "Tabemono",
+        "bangla": "তাবেমোনো",
+        "meaningEnglish": "Food",
+        "meaningBangla": "খাবার"
+      },
+      {
+        "word": "ご飯",
+        "romaji": "Gohan",
+        "bangla": "গোহান",
+        "meaningEnglish": "Rice; meal",
+        "meaningBangla": "ভাত; খাবার"
+      },
+      {
+        "word": "メニュー",
+        "romaji": "Menyuu",
+        "bangla": "মেন্যু",
+        "meaningEnglish": "Menu",
+        "meaningBangla": "মেন্যু"
+      },
+      {
+        "word": "これ",
+        "romaji": "Kore",
+        "bangla": "কোরে",
+        "meaningEnglish": "This",
+        "meaningBangla": "এটি"
+      },
+      {
+        "word": "いくら",
+        "romaji": "Ikura",
+        "bangla": "ইকুরা",
+        "meaningEnglish": "How much",
+        "meaningBangla": "কত দাম"
+      },
+      {
+        "word": "お金",
+        "romaji": "Okane",
+        "bangla": "ওকানে",
+        "meaningEnglish": "Money",
+        "meaningBangla": "টাকা"
+      },
+      {
+        "word": "カード",
+        "romaji": "Kaado",
+        "bangla": "কা-দো",
+        "meaningEnglish": "Card",
+        "meaningBangla": "কার্ড"
+      },
+      {
+        "word": "現金",
+        "romaji": "Genkin",
+        "bangla": "গেনকিন",
+        "meaningEnglish": "Cash",
+        "meaningBangla": "নগদ টাকা"
+      },
+      {
+        "word": "ください",
+        "romaji": "Kudasai",
+        "bangla": "কুদাসাই",
+        "meaningEnglish": "Please give me",
+        "meaningBangla": "দয়া করে দিন"
+      },
+      {
+        "word": "おいしい",
+        "romaji": "Oishii",
+        "bangla": "ওইশী",
+        "meaningEnglish": "Delicious",
+        "meaningBangla": "সুস্বাদু"
+      },
+      {
+        "word": "店",
+        "romaji": "Mise",
+        "bangla": "মিসে",
+        "meaningEnglish": "Shop; store",
+        "meaningBangla": "দোকান"
+      }
+    ]
+  },
+  {
+    "priority": "Important",
+    "description": "Health, safety, and asking for immediate assistance",
+    "entries": [
+      {
+        "word": "病院",
+        "romaji": "Byouin",
+        "bangla": "বিয়োইন",
+        "meaningEnglish": "Hospital",
+        "meaningBangla": "হাসপাতাল"
+      },
+      {
+        "word": "薬",
+        "romaji": "Kusuri",
+        "bangla": "কুসুরি",
+        "meaningEnglish": "Medicine",
+        "meaningBangla": "ওষুধ"
+      },
+      {
+        "word": "警察",
+        "romaji": "Keisatsu",
+        "bangla": "কেইসাত্সু",
+        "meaningEnglish": "Police",
+        "meaningBangla": "পুলিশ"
+      },
+      {
+        "word": "救急車",
+        "romaji": "Kyuukyuusha",
+        "bangla": "কিউকিউশা",
+        "meaningEnglish": "Ambulance",
+        "meaningBangla": "অ্যাম্বুলেন্স"
+      },
+      {
+        "word": "痛い",
+        "romaji": "Itai",
+        "bangla": "ইতাই",
+        "meaningEnglish": "It hurts; painful",
+        "meaningBangla": "ব্যথা করছে; বেদনাদায়ক"
+      },
+      {
+        "word": "熱",
+        "romaji": "Netsu",
+        "bangla": "নেৎসু",
+        "meaningEnglish": "Fever",
+        "meaningBangla": "জ্বর"
+      },
+      {
+        "word": "気分が悪い",
+        "romaji": "Kibun ga warui",
+        "bangla": "কিবুন গা ওয়ারুই",
+        "meaningEnglish": "I feel sick",
+        "meaningBangla": "আমার শরীর খারাপ লাগছে"
+      },
+      {
+        "word": "火事",
+        "romaji": "Kaji",
+        "bangla": "কাজি",
+        "meaningEnglish": "Fire",
+        "meaningBangla": "আগুন লাগা"
+      },
+      {
+        "word": "危ない",
+        "romaji": "Abunai",
+        "bangla": "আবুনাই",
+        "meaningEnglish": "Dangerous; watch out",
+        "meaningBangla": "বিপজ্জনক; সাবধান"
+      },
+      {
+        "word": "財布",
+        "romaji": "Saifu",
+        "bangla": "সাইফু",
+        "meaningEnglish": "Wallet",
+        "meaningBangla": "মানিব্যাগ"
+      }
+    ]
+  },
+  {
+    "priority": "Useful every day",
+    "description": "People, time, and directions you will use often",
+    "entries": [
+      {
+        "word": "人",
+        "romaji": "Hito",
+        "bangla": "হিতো",
+        "meaningEnglish": "Person",
+        "meaningBangla": "মানুষ"
+      },
+      {
+        "word": "先生",
+        "romaji": "Sensei",
+        "bangla": "সেনসেই",
+        "meaningEnglish": "Teacher; doctor",
+        "meaningBangla": "শিক্ষক; ডাক্তার"
+      },
+      {
+        "word": "友達",
+        "romaji": "Tomodachi",
+        "bangla": "তোমোদাচি",
+        "meaningEnglish": "Friend",
+        "meaningBangla": "বন্ধু"
+      },
+      {
+        "word": "今日",
+        "romaji": "Kyou",
+        "bangla": "কিয়োও",
+        "meaningEnglish": "Today",
+        "meaningBangla": "আজ"
+      },
+      {
+        "word": "明日",
+        "romaji": "Ashita",
+        "bangla": "আশিতা",
+        "meaningEnglish": "Tomorrow",
+        "meaningBangla": "আগামীকাল"
+      },
+      {
+        "word": "今",
+        "romaji": "Ima",
+        "bangla": "ইমা",
+        "meaningEnglish": "Now",
+        "meaningBangla": "এখন"
+      },
+      {
+        "word": "時間",
+        "romaji": "Jikan",
+        "bangla": "জিকান",
+        "meaningEnglish": "Time; hour",
+        "meaningBangla": "সময়; ঘণ্টা"
+      },
+      {
+        "word": "右",
+        "romaji": "Migi",
+        "bangla": "মিগি",
+        "meaningEnglish": "Right",
+        "meaningBangla": "ডান"
+      },
+      {
+        "word": "左",
+        "romaji": "Hidari",
+        "bangla": "হিদারি",
+        "meaningEnglish": "Left",
+        "meaningBangla": "বাম"
+      },
+      {
+        "word": "まっすぐ",
+        "romaji": "Massugu",
+        "bangla": "মাস্সুগু",
+        "meaningEnglish": "Straight ahead",
+        "meaningBangla": "সোজা"
+      },
+      {
+        "word": "近く",
+        "romaji": "Chikaku",
+        "bangla": "চিকাকু",
+        "meaningEnglish": "Nearby",
+        "meaningBangla": "কাছাকাছি"
+      },
+      {
+        "word": "大きい",
+        "romaji": "Ookii",
+        "bangla": "ওওকী",
+        "meaningEnglish": "Big",
+        "meaningBangla": "বড়"
+      }
+    ]
+  },
+  {
+    "priority": "Good to know",
+    "description": "Common actions and words for simple requests",
+    "entries": [
+      {
+        "word": "行く",
+        "romaji": "Iku",
+        "bangla": "ইকু",
+        "meaningEnglish": "To go",
+        "meaningBangla": "যাওয়া"
+      },
+      {
+        "word": "来る",
+        "romaji": "Kuru",
+        "bangla": "কুরু",
+        "meaningEnglish": "To come",
+        "meaningBangla": "আসা"
+      },
+      {
+        "word": "帰る",
+        "romaji": "Kaeru",
+        "bangla": "কায়েরু",
+        "meaningEnglish": "To return; go home",
+        "meaningBangla": "ফিরে যাওয়া; বাড়ি ফেরা"
+      },
+      {
+        "word": "食べる",
+        "romaji": "Taberu",
+        "bangla": "তাবেরু",
+        "meaningEnglish": "To eat",
+        "meaningBangla": "খাওয়া"
+      },
+      {
+        "word": "飲む",
+        "romaji": "Nomu",
+        "bangla": "নোমু",
+        "meaningEnglish": "To drink",
+        "meaningBangla": "পান করা"
+      },
+      {
+        "word": "買う",
+        "romaji": "Kau",
+        "bangla": "কাউ",
+        "meaningEnglish": "To buy",
+        "meaningBangla": "কেনা"
+      },
+      {
+        "word": "見る",
+        "romaji": "Miru",
+        "bangla": "মিরু",
+        "meaningEnglish": "To see; look",
+        "meaningBangla": "দেখা"
+      },
+      {
+        "word": "聞く",
+        "romaji": "Kiku",
+        "bangla": "কিকু",
+        "meaningEnglish": "To listen; ask",
+        "meaningBangla": "শোনা; জিজ্ঞাসা করা"
+      },
+      {
+        "word": "話す",
+        "romaji": "Hanasu",
+        "bangla": "হানাসু",
+        "meaningEnglish": "To speak",
+        "meaningBangla": "কথা বলা"
+      },
+      {
+        "word": "分かる",
+        "romaji": "Wakaru",
+        "bangla": "ওয়াকারু",
+        "meaningEnglish": "To understand",
+        "meaningBangla": "বোঝা"
+      },
+      {
+        "word": "ある",
+        "romaji": "Aru",
+        "bangla": "আরু",
+        "meaningEnglish": "To exist (things)",
+        "meaningBangla": "আছে (বস্তু)"
+      },
+      {
+        "word": "いる",
+        "romaji": "Iru",
+        "bangla": "ইরু",
+        "meaningEnglish": "To exist (people/animals)",
+        "meaningBangla": "আছে (মানুষ/প্রাণী)"
+      }
+    ]
+  }
+]
